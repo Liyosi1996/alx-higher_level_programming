@@ -8,8 +8,8 @@ class Square:
         """initializes a square
 
         Args:
-            size(int): size of a side
-        """
+            size(int):size of a side
 
         Return: None
+        """
         self.__size = size
